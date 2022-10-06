@@ -1,2 +1,2 @@
 # netflix-clone-live
-by sabyasachhi sen
+by sabyasachi sen
